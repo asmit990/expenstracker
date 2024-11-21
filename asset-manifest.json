@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/expenstracker/static/css/main.e3a10156.css",
-    "main.js": "/expenstracker/static/js/main.bffc6471.js",
+    "main.js": "/expenstracker/static/js/main.b7692d54.js",
     "index.html": "/expenstracker/index.html",
     "main.e3a10156.css.map": "/expenstracker/static/css/main.e3a10156.css.map",
-    "main.bffc6471.js.map": "/expenstracker/static/js/main.bffc6471.js.map"
+    "main.b7692d54.js.map": "/expenstracker/static/js/main.b7692d54.js.map"
   },
   "entrypoints": [
     "static/css/main.e3a10156.css",
-    "static/js/main.bffc6471.js"
+    "static/js/main.b7692d54.js"
   ]
 }
